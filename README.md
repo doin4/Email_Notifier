@@ -19,14 +19,12 @@ This template is highly customizable and can be easily adapted to monitor other 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your_username/Email_Notifier.git
+   git clone https://github.com/doin4/Email_Notifier.git
    cd Email_Notifier
    ```
 
-2. Create a virtual environment and install dependencies:
+2. Install dependencies:
     ```bash
-    python -m venv venv
-    source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
     pip install -r requirements.txt
     ```
 
